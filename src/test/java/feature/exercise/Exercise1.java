@@ -1,6 +1,6 @@
 package feature.exercise;
 
-import com.mec.exercise.one.Matrix;
+import com.torres.game.connectedblock.Matrix;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;

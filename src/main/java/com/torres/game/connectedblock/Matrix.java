@@ -1,4 +1,4 @@
-package com.mec.exercise.one;
+package com.torres.game.connectedblock;
 
 import java.util.List;
 import java.util.Optional;
